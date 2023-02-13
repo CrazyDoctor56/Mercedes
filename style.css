@@ -1,1 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: beige;
+}
 
+.gg {
+    text-align: center;
+    background-color: white;
+    color: black;
+    text-decoration:none ;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    height: 25px;
+}
+
+.hp img {
+    height: 150px;
+    width: 200px;
+}
+
+footer {
+    background-color: gray;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.dd {
+    text-align: center;
+    font-size: 11px;
+}
+
+.cc {
+    text-decoration: none;
+    color: black;
+}
