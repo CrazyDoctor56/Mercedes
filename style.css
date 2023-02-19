@@ -54,3 +54,7 @@ footer {
     text-decoration: none;
     color: black;
 }
+
+p img {
+    text-align: center;
+}
